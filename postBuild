@@ -1,0 +1,4 @@
+julia -e "Pkg.clone(\"https://github.com/djsegal/FusionSystems.jl.git\")"
+julia -e "using FusionSystems"
+julia -e "using Plots"
+julia -e "using Interact"
